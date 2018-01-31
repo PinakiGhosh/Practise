@@ -1,6 +1,6 @@
-package linkedLists;
+package main.java.linkedLists;
 
-import linkedLists.exceptions.EmptyListException;
+import main.java.linkedLists.exceptions.EmptyListException;
 
 import java.io.*;
 

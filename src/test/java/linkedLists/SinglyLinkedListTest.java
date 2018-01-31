@@ -1,7 +1,9 @@
-package linkedLists;
+package test.java.linkedLists;
 
-import linkedLists.exceptions.ElementNotFoundException;
-import linkedLists.exceptions.EmptyListException;
+import main.java.linkedLists.CustomLinkedList;
+import main.java.linkedLists.SinglyLinkedList;
+import main.java.linkedLists.exceptions.ElementNotFoundException;
+import main.java.linkedLists.exceptions.EmptyListException;
 
 import java.io.IOException;
 

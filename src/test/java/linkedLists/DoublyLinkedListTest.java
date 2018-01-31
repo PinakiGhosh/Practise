@@ -1,7 +1,8 @@
-package linkedLists;
+package test.java.linkedLists;
 
-import linkedLists.exceptions.ElementNotFoundException;
-import linkedLists.exceptions.EmptyListException;
+import main.java.linkedLists.DoublyLinkedList;
+import main.java.linkedLists.exceptions.ElementNotFoundException;
+import main.java.linkedLists.exceptions.EmptyListException;
 
 /**
  * Created by pinaki on 22/1/18.

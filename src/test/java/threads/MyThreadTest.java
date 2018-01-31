@@ -1,4 +1,6 @@
-package threads;
+package test.java.threads;
+
+import main.java.threads.MyThread;
 
 import java.util.ArrayList;
 

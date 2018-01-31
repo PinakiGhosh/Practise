@@ -1,6 +1,7 @@
-package tree;
+package test.java.tree;
 
-import tree.exceptions.DuplicateElementException;
+import main.java.tree.BST;
+import main.java.tree.exceptions.DuplicateElementException;
 
 /**
  * Created by pinaki on 30/1/18.

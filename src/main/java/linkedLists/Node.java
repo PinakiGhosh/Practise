@@ -1,4 +1,4 @@
-package linkedLists;
+package main.java.linkedLists;
 
 import java.io.Serializable;
 

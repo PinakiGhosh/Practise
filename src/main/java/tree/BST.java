@@ -11,7 +11,7 @@ public class BST implements Tree{
 
     private Node root;
 
-    BST(){
+    public BST(){
         this.root=null;
     }
 

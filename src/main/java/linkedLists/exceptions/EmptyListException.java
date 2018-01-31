@@ -1,4 +1,4 @@
-package linkedLists.exceptions;
+package main.java.linkedLists.exceptions;
 
 /**
  * Created by pinaki on 19/1/18.

@@ -1,4 +1,6 @@
-package threads;
+package test.java.threads;
+
+import main.java.threads.MySimpleThread;
 
 /**
  * Created by pinaki on 19/1/18.

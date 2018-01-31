@@ -1,4 +1,6 @@
-package graphs;
+package test.java.graphs;
+
+import main.java.graphs.Graph;
 
 /**
  * Created by pinaki on 30/1/18.
