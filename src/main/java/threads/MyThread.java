@@ -1,4 +1,4 @@
-package threads;
+package main.java.threads;
 
 /**
  * Created by pinaki on 19/1/18.

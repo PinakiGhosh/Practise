@@ -1,3 +1,4 @@
+package main.java.misc;
 import java.math.BigInteger;
 import java.util.Scanner;
 import java.util.Stack;

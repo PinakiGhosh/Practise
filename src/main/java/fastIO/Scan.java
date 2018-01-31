@@ -1,4 +1,4 @@
-package fastIO;
+package main.java.fastIO;
 
 import java.io.IOException;
 import java.io.InputStream;

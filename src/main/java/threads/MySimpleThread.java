@@ -1,4 +1,4 @@
-package threads;
+package main.java.threads;
 
 import java.time.Instant;
 

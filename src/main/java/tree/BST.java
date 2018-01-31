@@ -1,6 +1,6 @@
-package tree;
+package main.java.tree;
 
-import tree.exceptions.DuplicateElementException;
+import main.java.tree.exceptions.DuplicateElementException;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package tree.exceptions;
+package main.java.tree.exceptions;
 
 /**
  * Created by pinaki on 30/1/18.

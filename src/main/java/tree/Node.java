@@ -1,4 +1,4 @@
-package tree;
+package main.java.tree;
 
 /**
  * Created by pinaki on 30/1/18.
